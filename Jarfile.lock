@@ -1,0 +1,19 @@
+---
+:runtime:
+- org.slf4j:slf4j-jdk14:jar:1.7.26
+- org.apache.kafka:connect-api:jar:2.3.0
+- com.fasterxml.jackson.core:jackson-databind:jar:2.9.9
+- com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0
+- org.apache.kafka:kafka-streams:jar:2.3.0
+- com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.9
+- com.github.luben:zstd-jni:jar:1.4.0-1
+- org.rocksdb:rocksdbjni:jar:5.18.3
+- org.apache.kafka:kafka-streams-test-utils:jar:2.3.0
+- org.apache.kafka:connect-json:jar:2.3.0
+- jline:jline:jar:2.14.6
+- org.yaml:snakeyaml:jar:1.23
+- com.fasterxml.jackson.core:jackson-core:jar:2.9.9
+- org.xerial.snappy:snappy-java:jar:1.1.7.3
+- org.apache.kafka:kafka-clients:jar:2.3.0
+- org.slf4j:slf4j-api:jar:1.7.26
+- org.lz4:lz4-java:jar:1.6.0
