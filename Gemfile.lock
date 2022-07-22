@@ -46,8 +46,9 @@ GEM
     ruby-maven (3.3.12)
       ruby-maven-libs (~> 3.3.9)
     ruby-maven-libs (3.3.9)
+    thread_safe (0.3.6)
     thread_safe (0.3.6-java)
-    tzinfo (1.2.5)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     virtus (1.0.5)
       axiom-types (~> 0.1)
@@ -58,6 +59,7 @@ GEM
 
 PLATFORMS
   java
+  ruby
 
 DEPENDENCIES
   activesupport
